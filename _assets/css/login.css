@@ -1,0 +1,10 @@
+/**************************************
+    LOGIN STYLES
+**************************************/
+body.login { background-color: #cecece; font-family: 'Roboto', sans-serif } 
+body.login .panel-login { background-color: #ffffff; box-sizing: border-box; height: auto; left: 50%;  margin: auto; max-width: 320px; padding: 10px 20px 40px; position: fixed; top: 50%; -webkit-transform: translate(-50%,-50%); transform: translate(-50%,-50%); width: 100% } 
+body.login .panel-login h2 { color: #229ce2; margin-bottom: 10px; text-align: center } 
+body.login .form-group { padding: 8px 0; position: relative } 
+body.login .form-group > i { color: #cecece; font-size: 15px; right: 15px; position: absolute; top: 35%; } 
+body.login .form-group > input { border: 1px solid #ccc; box-sizing: border-box; display: block; height: 45px; padding: 10px 40px 10px 10px; width: 100% } 
+body.login .form-group > button { background-color: #229ce2; border: none; box-sizing: border-box; color: #ffffff; display: block; font-size: 22px; padding: 10px; text-align: center; width: 100% } 
